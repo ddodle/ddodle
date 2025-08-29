@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello there 👋 My name is Doyeon Kim
+=============================
 
-<!--
-**ddodle/ddodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌍  I'm based in Seoul, South Korea
+* 📚  I'm majoring Information and Communication Engineering At Dongguk University
+* ✉️  You can contact me at [ehdus022191@gmail.com](mailto:ehdus022191@gmail.com)
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+[![Doyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddodle&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdus022191)](https://solved.ac/profile/ehdus022191)

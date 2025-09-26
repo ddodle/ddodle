@@ -18,3 +18,7 @@ Hello there 👋 My name is Doyeon Kim
 [![Doyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddodle&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdus022191)](https://solved.ac/profile/ehdus022191)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ddodle?pet-id=749084945532827295" width="1000" height="120"/>
+</a>
